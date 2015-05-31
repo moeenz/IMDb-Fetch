@@ -35,3 +35,5 @@ node imdbfetch.js http://www.imdb.com/title/tt2562232/
        photo_link: 'http://ia.media-imdb.com/images/M/MV5BMTkzMjY1NjUxMl5BMl5BanBnXkFtZTgwMTUyNTY4MjE@.jpg' } ] 
 }
 ```
+
+Although there are better ways to do this but this was just for playing.
